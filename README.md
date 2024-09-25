@@ -1,7 +1,4 @@
-# EG 212 Computer Architecture – IAS Processor Design (Assignment 1)
-
-**Author**: Subikshaa Sakthivel  
-**Roll Number**: IMT2023020
+# EG 212 Computer Architecture – IAS Processor Design 
 
 ## Project Overview
 
